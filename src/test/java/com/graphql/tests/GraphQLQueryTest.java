@@ -61,6 +61,7 @@ public class GraphQLQueryTest {
 																				
 	}
 	
+	//Demo method using POJO classses
 	@Test
 	public void getAllUsers_WithPojoTest() {
 		
